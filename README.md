@@ -6,7 +6,6 @@
 **link**:"https://colab.research.google.com/drive/1iEDu1Q94dwwZ3U-g0PHDeknA8xGKIbri?usp=sharing"
 ***
 In this project, i have created a FUN-GAME where you can make your own story✍️
-***
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 **NUMBER-GUESSING-GAME {COMPUTER}** 
@@ -14,7 +13,6 @@ In this project, i have created a FUN-GAME where you can make your own story✍�
 **Link**:"https://colab.research.google.com/drive/1M-uhzomHVf0bYQygbFWHYmZJleoXPvOT?usp=sharing"
 ***
 In this project, i have created a Number-Guessing-Game but the main **TWIST** is **YOU** have to guess the number and computer will play this game with you so be sure to win!!😉
-***
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 **NUMBER-GUESSING-GAME {USER}**
@@ -22,7 +20,6 @@ In this project, i have created a Number-Guessing-Game but the main **TWIST** is
 **Link**:"https://colab.research.google.com/drive/1H1lSUVRh9edXIArogNV9_XPZMfmKwVeV?usp=sharing"
 ***
 In this project, i have created a Number-Guessing-Game but the main **TWIST** is **Computer** have to guess the number and You will play this game with him so be sure to choose the hard one!!😝
-***
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
