@@ -75,7 +75,6 @@ Want😮‍💨 a **Fit-Body and a Good Health** then try out my **App** it keep
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 💮💮
 #**THANKS🩷FOR REVIVEWING MY PROJECTS💙**
-💮💮
 **LET ME KNOW😸IF THERE IS ANY THING👾I SHOULD FIX💪 OR ANY IDEA🧠 TO MAKE THEM BETTER🌟**
 💮💮
 
