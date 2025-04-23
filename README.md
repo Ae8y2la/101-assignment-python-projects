@@ -84,6 +84,6 @@ Want😮‍💨 a **Fit-Body and a Good Health** then try out my **App** it keep
 
 💮💮
 
-**REACH ME OUT📧:"aeylanaseer@gmail.com"**
+**REACH ME OUT ON DISCORD 👾:"user6790.h"**
 
 
